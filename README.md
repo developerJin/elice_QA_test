@@ -34,3 +34,4 @@ Python, Selenium, Java, PyTest, Postman, Jenkins
 “다들 원하는 바를 이루는 시간이 되었으면 좋겠어요” 
 
 ## 마무리까지 화이팅해요!!
+# 저도 반갑습니다!!
